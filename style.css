@@ -1,0 +1,54 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 80rem;
+}
+
+.navigation-section,
+.footer-section,
+.hero-section {
+    background-color: #1F2937;
+    color: white;
+}
+
+.showcase-item img{
+    height: 100px;
+    width: 100px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.hero-text h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.hero-text p,
+.navigation-section li {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9F1F8;
+}
+
+button,
+.call-to-action-section {
+    background-color: #3882F6;
+}
+
+.showcase-section h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.testimonial-section {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
